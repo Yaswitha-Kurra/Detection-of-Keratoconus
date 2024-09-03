@@ -1,2 +1,2 @@
-# Detection-of-Keratoconus
-VGG-19 algorithm,using this algorithm the detection of Keratoconus Eye disease is done and has been classifiend into respective classes.
+# Detection-of-Keratoconus-Using-CNN-with-VGG-19
+In this project, I developed a Convolutional Neural Network (CNN) model using the VGG-19 architecture to detect and classify keratoconus, an eye disorder, into three categories: healthy, suspected keratoconus, and keratoconus. The VGG-19 model, known for its deep layers and strong performance in image classification tasks, was fine-tuned to analyze corneal images and accurately differentiate between these three classes. The project involved preprocessing the images, training the model on labeled datasets, and optimizing it for high accuracy in detecting keratoconus. The resulting model provides a reliable tool for early diagnosis and treatment planning.
